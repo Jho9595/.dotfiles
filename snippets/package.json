@@ -1,0 +1,19 @@
+{
+  "name": "joe's snippets",
+  "author": "joe mango boss",
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "python",
+        "path": "./python.json"
+      },
+      {
+        "language": "golang",
+        "path": "./golang.json"
+      }
+    ]
+  }
+}
