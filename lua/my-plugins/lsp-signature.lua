@@ -1,4 +1,4 @@
-M = {}
+local M = {}
 
 local cfg = {
   debug = false, -- set to true to enable debug logging
